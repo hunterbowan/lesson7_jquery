@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/28/17
 
 ### Student Name:  
-(First and Last Name)
+Hunter Bowan
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project shows the effects of using jquery on a site and the dynamic events it can create
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hunterbowan.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using the click function to trigger an event
+2. Using hover and how it is a two part event handler
+3. Manipulating the DOM to add to the tree.
