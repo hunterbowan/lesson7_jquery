@@ -1,0 +1,3 @@
+I added different colored css to the hovered links. An orange and transparent colors.
+I added a click to <h3> that added a DOM effect of after for enjoy!
+I made an animate that made moving the h3 faster and added apacity to it.
